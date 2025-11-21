@@ -25,17 +25,18 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 
 # NETWORK DIAGRAM
-<img width="1920" height="1080" alt="Screenshot (366)" src="https://github.com/user-attachments/assets/0bb2357e-48a4-40ca-ab69-d029e1c809b2" />
+<img width="1013" height="587" alt="image" src="https://github.com/user-attachments/assets/0ce4a0cc-63bc-4cb2-8c41-96ce57cbb57c" />
 
 
 
 
 
 # OUTPUT
-<img width="1920" height="1080" alt="Screenshot (366)" src="https://github.com/user-attachments/assets/7f35f309-e566-48a3-a48e-5fcc0f1b75e5" />
+<img width="1014" height="622" alt="image" src="https://github.com/user-attachments/assets/892ff1ef-0d4c-4806-ba80-4522fc916d87" />
 
 
 
 # RESULT
 
 Thus the computers in same network are able to communicate with each other and the communication between them were verified.
+
