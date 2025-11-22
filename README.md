@@ -10,6 +10,7 @@ Cisco Packet Tracer 5.0 Software.
 
 
 # PROCEDURE
+```
 STEP 1: Open a Packet Tracer Software.
 STEP 2: Drag a 2950 Switch from tool bar and drop it in work area. STEP 3: Drag a PC Terminal from tool bar and drop it in work area. STEP 4: Repeat the Step:3 for four terminals.
 STEP 5: Select Copper straight-through cable from tool bar and connect each PC Terminal with 2950 switch in different ports.
@@ -17,24 +18,27 @@ STEP 6: Click on the PC Terminal, Select the fast Ethernet Interface from config
 STEP 7: Repeat the Step:6 for all the PC Terminals.
 STEP 8: click on the PC Terminal and Select Terminal from the Desktop tab to verify the connectivity between the PC Terminals using Ping Command.
 STEP 9: Select “add simple PDU” from tool bar and place it in source and destination PC Terminals to verify the connectivity
-
+```
 
 
 # IP CONNECTIVITY TABLE
 
-
+| NAME | IP ADDRESS     | SUBNET MASK     | NETWORK      | CLASS   |
+|------|----------------|-----------------|--------------|---------|
+| PCO  | 192.168.1.10   | 255.255.255.0   | 192.168.1.1  | Class C |
+| PC1  | 192.168.1.30   | 255.255.255.0   | 192.168.1.1  | Class C |
+| PC2  | 192.168.1.20   | 255.255.255.0   | 192.168.1.1  | Class C |
+| PC3  | 192.168.2.20   | 255.255.255.0   | 192.168.1.2  | Class C |
+| PC4  | 192.168.2.30   | 255.255.255.0   | 192.168.1.2  | Class C |
+| PC5  | 192.168.2.10   | 255.255.255.0   | 192.168.1.2  | Class C |
 
 # NETWORK DIAGRAM
-<img width="1013" height="587" alt="image" src="https://github.com/user-attachments/assets/0ce4a0cc-63bc-4cb2-8c41-96ce57cbb57c" />
 
-
-
-
+<img width="807" height="799" alt="Screenshot 2025-11-21 211208" src="https://github.com/user-attachments/assets/e5bfcfe0-f988-4b51-9e26-e46871a8b5cf" />
 
 # OUTPUT
-<img width="1014" height="622" alt="image" src="https://github.com/user-attachments/assets/892ff1ef-0d4c-4806-ba80-4522fc916d87" />
 
-
+<img width="809" height="828" alt="Screenshot 2025-11-21 210923" src="https://github.com/user-attachments/assets/59ae378c-ddc3-4825-844e-310793cb0535" />
 
 # RESULT
 
